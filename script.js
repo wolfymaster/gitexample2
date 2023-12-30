@@ -5,3 +5,7 @@ function sayHello(name) {
 function sayHola(name) {
     alert(`hola ${name}`)
 }
+
+function sayWoof(name) {
+    alert(`woof ${name}`)
+}
